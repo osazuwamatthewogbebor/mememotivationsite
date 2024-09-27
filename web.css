@@ -20,5 +20,6 @@ div {
     margin-top: 130px;
     color: white;
     text-transform: uppercase;
-    text-align:center;
+    text-align: center;
+    position: sticky
 }
