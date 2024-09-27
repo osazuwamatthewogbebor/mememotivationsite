@@ -4,6 +4,7 @@ body{
 h1 {
     font-family: "Libre Baskerville", serif;
     font-size: 3rem;
+    text-transform: uppercase;
     
 }
 img {
@@ -20,7 +21,6 @@ div {
     margin-top: 130px;
     margin-bottom: 50;
     color: white;
-    text-transform: uppercase;
     text-align: center;
     position: sticky
     
